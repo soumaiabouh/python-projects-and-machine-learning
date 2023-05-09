@@ -1,0 +1,3 @@
+# Multilayer Perceptron and Convolutional Neural Network
+
+In this project, my teammate and I compared the accuracy of the multilayer perceptron (MLP) algorithm and ConvNet algorithm on the Fashion-MNIST dataset. I contributed to both the implementation of the algorithms and the report. Our objective was to investigate which algorithm would perform better on image classification. We trained and tested both algorithms and analyzed the results. The MLP and ConvNet algorithms were implemented using Python and TensorFlow. Our report includes detailed analysis and comparison of the performance of the two algorithms on the dataset.
