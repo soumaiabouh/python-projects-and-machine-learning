@@ -1,5 +1,5 @@
 # KNN and Decision Tree
-This repository contains a machine learning project completed as part of an Introduction to Machine Learning course. 
+This subdirectory contains a machine learning project completed as part of an Introduction to Machine Learning course. 
 The project was a collaboration between myself and a teammate, and involved implementing KNN and Decision Tree algorithms. 
 We applied these algorithms to two databases and evaluated their performance using Python. 
 The two datasets used were a hepatitis dataset and the Diabetic Retinopathy Debrecen dataset, which we also refer to as Messidor features dataset
